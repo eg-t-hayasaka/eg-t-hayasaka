@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<ul>
+  <li><a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eg-t-hayasaka&theme=dracula" /></a></li>
+  <li><a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg-t-hayasaka&layout=compact&theme=dracula" /></a></li>
+</ul>
+
 <!--
 **eg-t-hayasaka/eg-t-hayasaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
