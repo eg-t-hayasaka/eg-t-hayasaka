@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-<center>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eg-t-hayasaka&theme=dracula" /></a></li>
+<p style="text-align: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eg-t-hayasaka&theme=dracula" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg-t-hayasaka&layout=compact&theme=dracula" /></a>
 </p>
-</center>
 
 <p>
-  <img srrc="https://github-profile-trophy.vercel.app/?username=eg-t-hayasaka&theme=dracula">
+  <img src="https://github-profile-trophy.vercel.app/?username=eg-t-hayasaka&theme=dracula" />
 </p>
 
 <!--
