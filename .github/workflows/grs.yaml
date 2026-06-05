@@ -42,9 +42,12 @@ jobs:
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: eg-t-hayasaka
+          username: ${{ github.repository_owner }}
           output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: list profiles
+        run: ls -la
 
       - name: Commit cards
         run: |
