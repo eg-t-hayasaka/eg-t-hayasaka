@@ -1,13 +1,19 @@
-## Hi there 👋
+## Hi i'm Takahiro Hayasaka 👋
 
-<p style="text-align: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eg-t-hayasaka&theme=dracula" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg-t-hayasaka&layout=compact&theme=dracula" /></a>
-</p>
+![hoge](profile/stats.svg) ![Top languages](profile/top-langs.svg)
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=eg-t-hayasaka&theme=dracula" />
-</p>
+![GitHub profile trophy](profile/trophy.svg)
+
+***
+
+I am an engineer at [Members Co., Ltd.,](https://www.members.co.jp/) working on application development using Dart/Flutter. 🎯
+
+I rarely develop software myself. 🫤
+
+Please see here for more information about our company [specializing in app development](https://crossapplication.members.co.jp/).
+
+I would like to contribute to the Dart/Flutter community, however small my contribution may be. 💪
+
 
 <!--
 **eg-t-hayasaka/eg-t-hayasaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
