@@ -40,7 +40,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
 
       - name: Commit cards
