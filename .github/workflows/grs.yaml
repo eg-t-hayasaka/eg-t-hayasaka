@@ -25,7 +25,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOROPHY_GEN_TOKEN }} 
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -33,14 +33,14 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dracula
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOROPHY_GEN_TOKEN }} 
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOROPHY_GEN_TOKEN }} 
           theme: dracula
 
       - name: Commit cards
