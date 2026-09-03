@@ -2,7 +2,7 @@
 
 ![hoge](profile/stats.svg) ![Top languages](profile/top-langs.svg)
 
-![GitHub profile trophy](profile/trophy.svg)
+![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=mem-997-hayasaka&theme=dracula)
 
 ***
 
