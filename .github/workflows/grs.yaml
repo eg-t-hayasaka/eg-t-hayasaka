@@ -46,11 +46,11 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ github.token }}
+          token: ${{ secrets.TOROPHY_GEN_TOKEN }}
           theme: dracula
         env:
-          GITHUB_TOKEN1: ${{ github.token }}
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN1: ${{ secrets.TOROPHY_GEN_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOROPHY_GEN_TOKEN }}
 
       - name: Commit cards
         run: |
