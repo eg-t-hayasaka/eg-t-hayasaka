@@ -28,6 +28,7 @@ jobs:
           token: ${{ secrets.TOROPHY_GEN_TOKEN }}
         env:
           GITHUB_TOKEN1: ${{ secrets.TOROPHY_GEN_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOROPHY_GEN_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -38,6 +39,7 @@ jobs:
           token: ${{ secrets.TOROPHY_GEN_TOKEN }}
         env:
           GITHUB_TOKEN1: ${{ secrets.TOROPHY_GEN_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOROPHY_GEN_TOKEN }}
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
@@ -48,6 +50,7 @@ jobs:
           theme: dracula
         env:
           GITHUB_TOKEN1: ${{ secrets.TOROPHY_GEN_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOROPHY_GEN_TOKEN }}
 
       - name: Commit cards
         run: |
